@@ -1,2 +1,2 @@
 # mern-lessons
-## This repository is for learning mern stack.
+This repository is for learning mern stack.
